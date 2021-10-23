@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- :computer: I'm full-time junior python (Django) developer at Integree.eu
+- :computer: I'm full-time Junior Python (Django) Developer at Integree.eu
 - :eyes: I’m currently learning *Django, Docker and Linux* 
 - :school: I'm a Computer Science student at Wrocław Univerisity of Science and Technology
 - <a href="https://gitlab.com/rejmento">GitLab profile</a>

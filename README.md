@@ -1,9 +1,9 @@
 # Hi there 👋
 
-- :computer: I'm backend developer with reliable Python and Django skills
-- :eyes: I’m currently learning *Docker, Redis and GitHub Actions* 
-- :chart_with_upwards_trend: At present I’m working on [Ecommerce API](https://github.com/ArturRejment/ecommerce-api) and [Pokemon Webservice](https://github.com/ArturRejment/pokemon-webservice) improvement
+- :computer: I'm junior python (Django) developer at Integree.eu
+- :eyes: I’m currently learning *Django, Docker and Linux* 
 - :school: I'm a Computer Science student at Wrocław Univerisity of Science and Technology
+- <a href="https://gitlab.com/rejmento">GitLab profile</a>
 
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arturrejment&&show_icons=true&count_private=true&theme=onedark" />

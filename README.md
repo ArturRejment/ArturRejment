@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- :computer: I'm Junior Backend Developer
+- :computer: I'm Regular Software Engineer at InsERT
 - :school: I'm a Computer Science student at Wrocław Univerisity of Science and Technology
 
 <br />
